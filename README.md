@@ -29,8 +29,8 @@ Back-end developer building **AI-powered medical software**. I hold a B.Sc. in C
 |---|---|
 | [Monai](https://github.com/fareedfotuhi/Monai) | Deep learning for medical imaging with MONAI, containerized with Docker |
 | [BraTS 3D segmentation](https://github.com/fareedfotuhi/1) | 3D brain tumor segmentation on BraTS with MONAI and PyTorch |
-| C-minus compiler | Compiler for the C-Minus language that generates pseudo machine code (Python) |
-| End-to-end messenger | Secure client/server messaging app with end-to-end encryption (Python) |
+| [C-minus compiler](https://github.com/burgereza/Compiler-Project) | Compiler for the C-Minus language that generates pseudo machine code (Python) |
+| [End-to-end messenger](https://github.com/mbehnasr/end_to_end_messenger) | Secure client/server messaging app with end-to-end encryption (Python) |
 | [Fpedf-Scheduling](https://github.com/fareedfotuhi/Fpedf-Scheduling) | fpEDF global multiprocessor real-time scheduling, compared with EDF |
 | [os-project](https://github.com/fareedfotuhi/os-project) | Modified `malloc`, `free` and `realloc` for better memory allocation on Linux (C) |
 | [Aliens_Game_Player](https://github.com/fareedfotuhi/Aliens_Game_Player-master) | Hands-free game control: face movement steers the ship, sound fires (Python + Verilog) |
