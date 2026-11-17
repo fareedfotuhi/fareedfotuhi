@@ -12,7 +12,7 @@ Back-end developer building **AI-powered medical software**. I hold a B.Sc. in C
 | Role | Where | When |
 |---|---|---|
 | **Back-end Developer:** FastAPI services and real-time PyTorch inference pipelines for ECG-based stroke detection | AICT | Apr 2025 – present |
-| **Back-end Developer:** Python and Go services and RESTful APIs for an intelligent stroke detection and treatment system | DML Lab, Sharif University | Aug 2024 – Apr 2025 |
+| **Back-end Developer:** Python services and RESTful APIs for an intelligent stroke detection and treatment system | DML Lab, Sharif University | Aug 2024 – Apr 2025 |
 | **Back-end Developer Intern:** Django back end, plus an ML model forecasting minimum required bank balance | Arian Saeed | Jul 2023 – Oct 2023 |
 
 **Teaching assistant** at Sharif University for Operating Systems, Advanced Programming, Basic Programming and Computer Simulation.
@@ -39,7 +39,7 @@ Back-end developer building **AI-powered medical software**. I hold a B.Sc. in C
 
 ## Tech
 
-- **Languages:** Python · Go · C · C++ · Java · TypeScript · JavaScript · R · SQL · Verilog · VHDL
+- **Languages:** Python · C · C++ · Java · TypeScript · JavaScript · R · SQL · Verilog · VHDL
 - **Back end:** FastAPI · Django · NestJS · PostgreSQL · REST APIs
 - **AI/ML:** PyTorch · MONAI · NumPy · pandas · Matplotlib
 - **Tools:** Docker · Git · Linux · JupyterHub · LaTeX · 3D Slicer
